@@ -1,0 +1,22 @@
+body{
+    background-color: #ffeae0;
+    font-family: sans-serif;
+}
+
+.header{
+    color: #ff511c;
+}
+
+p{
+    user-select: none;
+}
+.click{
+padding:5px 10px;
+    font-weight: 500;
+    text-decoration: none;
+background-color:#ff511c;
+color:#ffffff;
+outline:none;
+border:none;
+border-radius:5px;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: #ffeae0;
+    font-family: sans-serif;
+}
+
+body h1{
+    color: #ff511c;
+    text-align: center;
+}
+
+body a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.click{
+    padding:10px 20px;
+    font-weight: 600;
+    color:black;
+    text-align: center;
+
+}
